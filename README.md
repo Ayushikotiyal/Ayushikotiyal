@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushikotiyal
 - 👀 I’m interested in Front End Development and Machine Learning.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on projects of HTML Aand CSS.
+- 💞️ I’m looking to collaborate on projects of HTML and CSS.
 - 📫 How to reach me ayushikotiyal03@gmail.com
 
 <!---
